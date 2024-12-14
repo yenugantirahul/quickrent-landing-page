@@ -1,4 +1,5 @@
 # React + Vite
+Link to the site: https://rent-landing-page.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
